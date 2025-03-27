@@ -1,6 +1,6 @@
 ## Hi there, I'm Benko 👋
 
-I'm **Benas Kuliesis** — a Computer Science student and self-taught full-stack developer.  
+I'm a Computer Science student and self-taught full-stack developer.  
 Looking for new projects, internships, and ways to grow.
 
 ### 🛠️ Tech Stack

@@ -1,8 +1,8 @@
 ## Hi there, I'm Benko 👋
 
-I'm a Computer Science student and self-taught full-stack developer.  
-Currently a **Software Development Engineer Intern at Amazon**.  
-Always looking for new projects, challenges, and opportunities to grow.
+I'm a full-stack engineer and CS student who loves building stuff.  
+Spent summer '25 at **Amazon** as an SDE Intern.  
+Always working on something new. Open to cool projects and opportunities!
 
 ---
 
